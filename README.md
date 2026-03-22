@@ -1,10 +1,9 @@
 # Qiskit Global Summer School 2025
 ### *The Past, Present and Future of Quantum Computing*
 
-Completed labs from IBM's **Qiskit Global Summer School 2025** — a two-week intensive programme led by IBM Quantum experts including John Preskill (Caltech), David DiVincenzo (IBM Quantum), Barbara Terhal (RWTH Aachen), and Jerry M. Chow (IBM Quantum). The programme covered the full arc of quantum computing, from foundational theory to state-of-the-art error correction techniques, with hands-on execution on real IBM quantum hardware.
+Completed labs from IBM's **Qiskit Global Summer School 2025** 
 
-> **Certificate of completion awarded.** All core labs and the final challenge completed.
-
+> **Certificate of completion awarded.** All core labs and the final challenge completed. [View credential →](https://www.credly.com/badges/e647636f-e147-4296-b081-c8988f2a20ae/public_url)
 ---
 
 ## Labs
@@ -29,8 +28,7 @@ Sample-Based Quantum Diagonalization (SQD) — approximating ground state energy
 
 - Qiskit 2.0 and IBM Quantum Platform
 - Quantum circuit design and transpilation
-- Noise characterisation and error mitigation (ZNE, PEC)
-- Quantum error correcting codes — Steane [[7,1,3]] code
+- Noise characterisation and error mitigation
 - Syndrome measurement and decoding
 - Sample-Based Quantum Diagonalization (SQD)
 - qLDPC codes and fault-tolerant quantum computing
@@ -50,12 +48,3 @@ from qiskit_ibm_runtime import QiskitRuntimeService
 QiskitRuntimeService.save_account(channel="ibm_quantum_platform", token="YOUR_API_KEY")
 ```
 
----
-
-## About QGSS 2025
-
-- **Dates:** July 7–22, 2025
-- **Format:** Fully virtual, 18 lectures + 17 lab sessions
-- **Theme:** International Year of Quantum Science and Technology
-- **Platform:** qBraid Lab + IBM Quantum hardware
-- **Registrants:** 8,100+ from 100+ countries
